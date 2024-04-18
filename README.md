@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Codewars Badge](https://www.codewars.com/users/nenowoDev/badges/small)
+
 <!--
 **nenowoDev/nenowoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
